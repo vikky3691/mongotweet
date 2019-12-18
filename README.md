@@ -1,5 +1,5 @@
-# chatmongo
-A simple chat app with mongodb
+# mongotweet
+Simple Tweet app using socket.io and mongodb
 
 ### Version
 1.0.0
